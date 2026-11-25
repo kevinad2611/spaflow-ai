@@ -1,0 +1,5 @@
+Hãy đọc kỹ toàn bộ 5 file tài liệu trong thư mục gốc: `CLAUDE.md` (hoặc `AGENT_RULES.md`), `PRD.md`, `UI_UX_SPEC.md`, `ARCHITECTURE.md`, và `PLAN.md`.
+
+Nhiệm vụ của bạn:
+1. Xác nhận đã nắm rõ các quy tắc kỷ luật trong `CLAUDE.md` (TypeScript Strict, Zod validation, Component < 200 dòng, tự kiểm thử `tsc --noEmit` và `npm run lint` sau mỗi task).
+2. Xuất bản **Implementation Plan** chi tiết cho **Phase 1 (Setup & Infrastructure)** trong `PLAN.md` và chờ tôi xác nhận trước khi bắt đầu tạo file.
